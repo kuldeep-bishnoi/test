@@ -1,9 +1,5 @@
 # Computational Thinking Assignment #1
 
-**Course:** FM111 - Computational Thinking  
-**Institution:** Plaksha University, Mohali  
-**Semester:** Monsoon AY 2025-26  
-
 ---
 
 ## Assignment Overview
